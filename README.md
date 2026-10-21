@@ -9,6 +9,7 @@ Fundei e lidero o time de Growth do zero. Gosto de transformar hipótese em expe
 ### Agora
 
 - Rodando experimentos no funil inteiro da [Reserva INK](https://reserva.ink/site/): aquisição, ativação, retenção e monetização
+- Construindo o Cérebro, app que acompanha as principais métricas de negócio da Reserva INK, gera insights e leva cada oportunidade de crescimento pro responsável certo
 - Evoluindo a Sala de Growth, app de gestão que criei para as necessidades específicas do meu time
 
 ---
